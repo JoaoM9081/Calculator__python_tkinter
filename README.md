@@ -9,14 +9,17 @@ Este projeto é uma simples calculadora implementada em Python usando a bibliote
 - Python 3.x
 - Tkinter (geralmente vem pré-instalado com Python)
 
-## Como executar
-
-1. Clone este repositório para o seu computador local.
-2. Navegue até o diretório do projeto no terminal.
-3. Execute o arquivo principal com o comando `python main.py`.
-
 ## Funcionalidades
 
 - Operações básicas: adição, subtração, multiplicação e divisão.
 - Suporte para operações com números decimais.
 - Interface gráfica amigável e fácil de usar.
+
+## Como executar
+
+1. Clone este repositório para o seu computador local.
+2. Navegue até o diretório do projeto no terminal.
+3. Execute o arquivo principal com o comando:
+```bash
+python main.py
+
